@@ -46,23 +46,23 @@ Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, proje
 :heavy_check_mark: Gera a ordem de pagamento usando api de pagamentos da Asaas(modo de ambiente de testes)
 
 
-<h2> Tela de Apresentacao  - Mobile e Desktop</h2>
+<h2> 🖥️📱 Tela de Apresentacao  - Mobile e Desktop</h2>
 <p align="center"> 
  <img src="" widht='340px' height='540px'    alt="app-mobile-desktop/>
 </p>
 
-<h2> Carrinho - Mobile e Desktop  </h2>
+<h2>  🖥️📱 Carrinho - Mobile e Desktop  </h2>
 <p align="center"> 
  <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
 </p>
 
 
-<h2> Formulario de Entrega e Pagamento - Mobile e Desktop </h2>
+<h2>  🖥️📱 Formulario de Entrega e Pagamento - Mobile e Desktop </h2>
 <p align="center"> 
  <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
 </p>
 
-<h2> Pedido Confirmado - Mobile e Desktop </h2>
+<h2>   🖥️📱 Pedido Confirmado - Mobile e Desktop </h2>
 <p align="center"> 
  <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
 </p>
@@ -101,7 +101,7 @@ $ npm run start
 
 ```
 
-## Variáveis de Ambiente
+## ⚒️ Variáveis de Ambiente
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
 
@@ -113,7 +113,7 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 Licenca [LICENSE](LICENSE.md)
 
-## Suporte
+## 📧 Suporte
 Para suporte, mande um email para luisphelipe1000@gmail.com ou entre em nosso canal do Slack.
 
 ## 🔗 Links
