@@ -19,7 +19,6 @@
 
 </p>
 
-
 <p align="center">
   <a href="#dart-about">Sobre Projeto</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Funcoes</a> &#xa0; | &#xa0;
@@ -31,6 +30,8 @@
 </p>
 
 <br>
+
+# Olá, me chamo Luis Felipe! 👋
 
 ## :dart: About ##
 
@@ -100,9 +101,24 @@ $ npm run start
 
 ```
 
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+
+`REACT_APP_API_BASE_URL`
+`PORT`
+
+
 ## :memo: License ##
 
-Licenca [LICENSE](LICENSE.md) 
+Licenca [LICENSE](LICENSE.md)
+
+## Suporte
+Para suporte, mande um email para luisphelipe1000@gmail.com ou entre em nosso canal do Slack.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-luis-guilhaof.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-silv/)
 
 
 De :heart: para <a href="https://github.com/Guilhaof" target="_blank">Guilhaof</a>
