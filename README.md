@@ -48,23 +48,23 @@ Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, proje
 
 <h2> 🖥️📱 Tela de Apresentacao  - Mobile e Desktop</h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-mobile-desktop/>
+ <img src="https://github.com/GuilhaoF/ifood-react/assets/67026555/6035081c-469d-403c-8d18-f4754b7a7a59" widht='1024px' height='800px'    alt="app-mobile-desktop/>
 </p>
 
 <h2>  🖥️📱 Carrinho - Mobile e Desktop  </h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
+ <img src="https://github.com/GuilhaoF/ifood-react/assets/67026555/d1551270-e885-4cc7-b413-5b740c776b82" widht='1024px' height='800px'    alt="app-mobile-desktop"/>
 </p>
 
 
 <h2>  🖥️📱 Formulario de Entrega e Pagamento - Mobile e Desktop </h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
+ <img src="https://github.com/GuilhaoF/ifood-react/assets/67026555/0ddd9291-cab0-4250-9d75-e799f830d891" widht='1024px' height='800px'    alt="app-mobile-desktop"/>
 </p>
 
 <h2>   🖥️📱 Pedido Confirmado - Mobile e Desktop </h2>
 <p align="center"> 
- <img src="" widht='340px' height='540px'    alt="app-mobile-desktop"/>
+ <img src="https://github.com/GuilhaoF/ifood-react/assets/67026555/39d6589c-bf65-45e3-8b64-8b4cca8ab78f" widht='1024px' height='800px'    alt="app-mobile-desktop"/>
 </p>
 
 ## :rocket: Technologias ##
